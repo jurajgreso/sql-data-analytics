@@ -15,6 +15,10 @@ Let's stay in touch! Feel free to connect with me on [LinkedIn](https://www.link
 
 ---
 
+<img width="766" height="1140" alt="SQL data analytics reference guide_2" src="https://github.com/user-attachments/assets/96970a6a-7e9b-4d94-a60a-982c2b0a8870" />
+
+---
+
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
